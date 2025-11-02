@@ -1,0 +1,19 @@
+import javax.swing.*;
+import java.awt.*;
+
+public class Main1 {
+    public static void main(String[] args)
+    {
+//        JFrame frame = new JFrame();
+//        frame.setTitle("JFrame");
+//        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+//        frame.setSize(420,420);
+//        frame.setResizable(false);
+//        frame.setVisible(true);
+//
+//        ImageIcon image = new ImageIcon("src/logo.png");
+//        frame.setIconImage(image.getImage());
+//        frame.getContentPane().setBackground(new Color(0,0,255));
+        MyFrame myFrame = new MyFrame();
+    }
+}
